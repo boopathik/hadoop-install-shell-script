@@ -8,5 +8,7 @@ once your script is finished.
   
 # Start hadoop using start-all.sh 
  start all file is in sbin of hadoop directory.
+ 
   $cd hadoop/sbin
+  
   $./start-all.sh
